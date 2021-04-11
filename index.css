@@ -1,0 +1,45 @@
+
+#naslov{
+    
+    display: flex;
+    flex-direction: row;
+    background-color: cornflowerblue;
+   
+
+}
+.slika{
+    height: 320px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: -30px;
+    margin-left: -300px;
+}#podaci{
+
+
+    margin-left: 150px;
+}#sredina{
+    
+    margin-top: -30px;
+    display: flex;
+    flex-direction: row;
+}.obrazovanje{
+    margin-top: -50px;
+    margin-left:150px ;
+}.obrazovanje1{
+    margin-left: 150px;
+}.liste{
+    margin-left: 170px;
+}#desno{
+    margin-left: 350px;
+}#donji{
+    margin-top: -50px;
+    background-color: rgb(168, 190, 231);
+    display: flex;
+    flex-direction: row;
+    
+}.lo{
+    margin-top: -50px;
+    margin-left: 150px;
+}.desno1{
+    margin-left: -130px;
+}
